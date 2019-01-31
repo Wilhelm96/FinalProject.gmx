@@ -1,0 +1,10 @@
+=============Fisht of Fury================
+Created by Will Ferguson and Jack Sosinski
+==========================================
+
+All the files included are most of the 
+assets for the game itself.
+------------------------------------------
+To RUN the game, open the application
+titled "Fisht of Fury [INSTALLER]
+
